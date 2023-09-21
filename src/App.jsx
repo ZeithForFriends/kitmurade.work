@@ -3,8 +3,7 @@ import { Axios } from 'axios';
 import { LinkSet, LayoutElement, SocialLink, BUTTON_ELEMENT, LABEL_ELEMENT } from './Data/LinkSet';
 
 export default function App({ page }) {
-  const links = new LinkSet()
-    .fromJson(page);
+  const links = new LinkSet().fromJson(page);
 
   return (
     <div className='root' style={{ backgroundImage: "url(" + page.style.background_image + ")", backgroundColor: "#" + page.style.background_color, color: "#" + page.style.text_color }}>
