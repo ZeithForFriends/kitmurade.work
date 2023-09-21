@@ -1,4 +1,4 @@
 @title Uploading changes...
 @git add *
 @git commit -m "Auto-Push"
-@git push -u origin main
+@git push origin main
