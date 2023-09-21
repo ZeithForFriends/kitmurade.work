@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kitmurade.work/static/css/main.76f7874f.css",
-    "main.js": "/kitmurade.work/static/js/main.8ca84f0b.js",
+    "main.js": "/kitmurade.work/static/js/main.b9dd8e34.js",
     "index.html": "/kitmurade.work/index.html",
     "main.76f7874f.css.map": "/kitmurade.work/static/css/main.76f7874f.css.map",
-    "main.8ca84f0b.js.map": "/kitmurade.work/static/js/main.8ca84f0b.js.map"
+    "main.b9dd8e34.js.map": "/kitmurade.work/static/js/main.b9dd8e34.js.map"
   },
   "entrypoints": [
     "static/css/main.76f7874f.css",
-    "static/js/main.8ca84f0b.js"
+    "static/js/main.b9dd8e34.js"
   ]
 }
