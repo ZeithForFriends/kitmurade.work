@@ -1,0 +1,53 @@
+{
+    "name": "Mura Kitmurade",
+    "title": "I draw pictures.",
+    "avatar": "https://i.imgur.com/nmPkhEF.png",
+    "style": {
+        "background_color": "282c34",
+        "text_color": "ffffff",
+
+        "background_image": "https://i.imgur.com/02zBMA0.jpg",
+        "background_filters": "blur(5px) brightness(25%)"
+    },
+    "layout": [
+        {
+            "type": "category",
+            "label": "Art-related:"
+        },
+        {
+            "type": "button",
+            "label": "Telegram (Мура🐔)",
+            "icon": "https://i.imgur.com/CJ84xAu.jpg",
+            "url": "https://t.me/mura_piddrr_TG"
+        },
+        {
+            "type": "button",
+            "label": "VK (мура ✧)",
+            "icon": "https://i.imgur.com/ooKriRn.jpg",
+            "url": "https://vk.com/mura_piddrr"
+        },
+        {
+            "type": "button",
+            "label": "Boosty (Kitmurade)",
+            "icon": "/static/images/boosty.svg",
+            "url": "https://boosty.to/kitmurade"
+        }
+    ],
+    "socials": [
+        {
+            "label": "Telegram",
+            "icon": "/static/images/telegram.svg",
+            "url": "https://t.me/kitmurade"
+        },
+        {
+            "label": "X",
+            "icon": "/static/images/twitter.svg",
+            "url": "https://x.com/Kitmurade"
+        },
+        {
+            "label": "Bluesky",
+            "icon": "/static/images/bluesky.webp",
+            "url": "https://bsky.app/profile/did:plc:lo7sqwvjq3i7oypa5o3vbpwb"
+        }
+    ]
+}
