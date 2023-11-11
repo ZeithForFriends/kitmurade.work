@@ -16,14 +16,20 @@
         },
         {
             "type": "button",
+            "label": "FurAffinity (KitMurade)",
+            "icon": "/static/images/furaffinity.webp",
+            "url": "https://www.furaffinity.net/user/kitmurade"
+        },
+        {
+            "type": "button",
             "label": "Telegram (Мура🐔)",
-            "icon": "https://i.imgur.com/CJ84xAu.jpg",
+            "icon": "/static/images/telegramblue.svg",
             "url": "https://t.me/mura_piddrr_TG"
         },
         {
             "type": "button",
             "label": "VK (мура ✧)",
-            "icon": "https://i.imgur.com/ooKriRn.jpg",
+            "icon": "/static/images/vk.svg",
             "url": "https://vk.com/mura_piddrr"
         },
         {
@@ -31,6 +37,12 @@
             "label": "Boosty (Kitmurade)",
             "icon": "/static/images/boosty.svg",
             "url": "https://boosty.to/kitmurade"
+        },
+        {
+            "type": "button",
+            "label": "DeviantArt (Kitmurade)",
+            "icon": "/static/images/deviantart.webp",
+            "url": "https://www.deviantart.com/kitmurade"
         }
     ],
     "socials": [
