@@ -34,12 +34,6 @@
         },
         {
             "type": "button",
-            "label": "Boosty (Kitmurade)",
-            "icon": "/static/images/boosty.svg",
-            "url": "https://boosty.to/kitmurade"
-        },
-        {
-            "type": "button",
             "label": "DeviantArt (Kitmurade)",
             "icon": "/static/images/deviantart.webp",
             "url": "https://www.deviantart.com/kitmurade"
